@@ -9,15 +9,9 @@ ZERO LOGIC VIEWS ARE POSSIBLE!
 | expert support          |  [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/peterboling?utm_source=github&utm_medium=button&utm_term=peterboling&utm_campaign=github) |
 | download rank               |  [![Total Downloads](https://img.shields.io/gem/rt/dry_views.svg)](https://rubygems.org/gems/dry_views) |
 | version                 |  [![Gem Version](https://badge.fury.io/rb/dry_views.png)](http://badge.fury.io/rb/dry_views) |
-| dependencies            |  [![Dependency Status](https://gemnasium.com/pboling/dry_views.png)](https://gemnasium.com/pboling/dry_views) |
-| code quality            |  [![Code Climate](https://codeclimate.com/github/pboling/dry_views.png)](https://codeclimate.com/github/pboling/dry_views) |
-| inline documenation     |  [![Inline docs](http://inch-ci.org/github/pboling/dry_views.png)](http://inch-ci.org/github/pboling/dry_views) |
-| continuous integration  |  [![Build Status](https://secure.travis-ci.org/pboling/dry_views.png?branch=master)](https://travis-ci.org/pboling/dry_views) |
-| test coverage           |  [![Coverage Status](https://coveralls.io/repos/pboling/dry_views/badge.png)](https://coveralls.io/r/pboling/dry_views) |
 | homepage                |  [on Github.com][homepage] |
 | documentation           |  [on Rdoc.info][documentation] |
-| live chat               |  [![Join the chat at https://gitter.im/pboling/dry_views](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pboling/dry_views?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) |
-| Spread ~♡ⓛⓞⓥⓔ♡~      |  [🌏](https://about.me/peter.boling), [👼](https://angel.co/peter-boling), [:shipit:](http://coderwall.com/pboling), [![Tweet Peter](https://img.shields.io/twitter/follow/galtzo.svg?style=social&label=Follow)](http://twitter.com/galtzo), [🌹](https://nationalprogressiveparty.org) |
+| Spread ~♡ⓛⓞⓥⓔ♡~      |  [🌏](https://about.me/peter.boling), [![Tweet Peter](https://img.shields.io/twitter/follow/galtzo.svg?style=social&label=Follow)](http://twitter.com/galtzo) |
 
 [semver]: http://semver.org/
 [pvc]: http://docs.rubygems.org/read/chapter/16#page74
